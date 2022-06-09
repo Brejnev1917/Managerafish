@@ -1,3 +1,4 @@
+package ru.netology;
 
 public class PosterManager {
     private int findLast = 10;
